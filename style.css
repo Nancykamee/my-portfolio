@@ -1,0 +1,88 @@
+body{
+    padding: 10px;
+    padding-left: 100px;
+    /* background-color: #388087; */
+    background-color: #042325;
+
+    color: #e0e0e0;
+}
+h1{
+    color: #e0e0e0;
+}
+h2{
+    color: #cccccc;
+}
+h3{
+    color: #B1A6A4;
+    margin-top: 40px;
+}
+#aboutLink:hover{
+  color: peru;
+}
+#aboutLink {
+    color: #cccccc;
+    text-decoration: none;
+    /* display: inline; */
+    margin: 0 50px 0 50px;
+    padding-top: 0;
+}
+#contactForm{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    padding: 50px;
+    text-align: center;
+    /* background-color: red; */
+    background-color: #133336d7;
+    border-radius: 20px;
+
+}
+p{
+    color: beige;
+}
+.top-nav{
+    margin-left: 15px;
+    display: flex;
+    text-align: left;
+    padding: 10px;
+    justify-self: end;
+    /* background-color: red; */
+    width: 40%;
+    /* align-items: flex-end; */
+}
+/* header{ */
+    /* background-color: black; */
+/* } */
+a{
+ text-decoration: none;
+ color: #cccccc;
+
+}
+a:hover{
+    color: peru;
+}
+.textarea{
+    padding: 15px 10px;
+    margin: 12px 0;
+    border-radius: 6px;
+    /* border-color: #042325; */
+    /* background-color: #06595f; */
+    background-color: #042325;
+    border-width: 0;
+}
+form button{
+    /* height: 30px; */
+    border-radius: 70px;
+    width: 40%;
+    align-self: end;
+    color: white;
+    /* background-color: #06595f; */
+    /* border-color: #042325; */
+    background-color: #042325;
+    border-width: 0;
+    padding: 12px 0;
+    margin-top: 10px;
+}
+form textarea{
+    height: 70px;
+}
