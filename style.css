@@ -88,3 +88,7 @@ form button{
 form textarea{
     height: 70px;
 }
+img{
+    height: 300px;
+    width: 500px;
+}
