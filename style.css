@@ -69,8 +69,10 @@ a:hover{
     /* background-color: #06595f; */
     background-color: #042325;
     border-width: 0;
+    color: #cccccc;
 }
 form button{
+    font-size: 12px;
     /* height: 30px; */
     border-radius: 70px;
     width: 40%;
